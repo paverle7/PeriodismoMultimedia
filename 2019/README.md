@@ -6,7 +6,7 @@ Proyectos que se van a desarrollar
 Proy1 -  Videojuego
 ========================================
 		Autores: 
-    Argumento: 
+    Argumento: HOLA
     
 
 		[Website]()
